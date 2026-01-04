@@ -1,0 +1,14 @@
+constexpr ::std::ptrdiff_t m_vecOrigin = 0x138;
+constexpr ::std::ptrdiff_t m_vecViewOffset = 0x108;
+constexpr ::std::ptrdiff_t m_iTeamNum = 0xF4;
+constexpr ::std::ptrdiff_t m_iHealth = 0x100;
+constexpr ::std::ptrdiff_t dwLocalPlayer = 0xCF3A3C;
+constexpr ::std::ptrdiff_t m_bDormant = 0xED;
+constexpr ::std::ptrdiff_t dwGlowObjectManager = 0x5245FE8;
+constexpr ::std::ptrdiff_t m_iCrosshairId = 0xB3AC;
+constexpr ::std::ptrdiff_t m_dwBoneMatrix = 0x26A8;
+constexpr ::std::ptrdiff_t dwEntityList = 0x4D05AD4;
+constexpr ::std::ptrdiff_t dwClientState = 0x58CCFC;
+constexpr ::std::ptrdiff_t dwClientState_ViewAngles = 0x4D88;
+constexpr ::std::ptrdiff_t m_fFlags = 0x104;
+constexpr ::std::ptrdiff_t dwForceJump = 0x51A918C;
